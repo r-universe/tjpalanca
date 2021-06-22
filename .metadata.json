@@ -1,5 +1,35 @@
 [
   {
     "package": "tjart"
+  },
+  {
+    "package": "web.scaling"
+  },
+  {
+    "package": "phlegis"
+  },
+  {
+    "package": "notionR"
+  },
+  {
+    "package": "manila.traffic"
+  },
+  {
+    "package": "dbtools"
+  },
+  {
+    "package": "tjtools"
+  },
+  {
+    "package": "tjdepot"
+  },
+  {
+    "package": "phdwh"
+  },
+  {
+    "package": "watch.something"
+  },
+  {
+    "package": "tjhome"
   }
 ]
