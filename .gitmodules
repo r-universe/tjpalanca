@@ -8,58 +8,8 @@
 	url = https://github.com/tjpalanca/tjart
 	shallow = true
 	registered = true
-[submodule "web.scaling"]
-	path = web.scaling
-	url = https://github.com/tjpalanca/web.scaling
-	shallow = true
-	registered = true
-[submodule "phlegis"]
-	path = phlegis
-	url = https://github.com/tjpalanca/phlegis
-	shallow = true
-	registered = true
-[submodule "notionR"]
-	path = notionR
-	url = https://github.com/tjpalanca/notionR
-	shallow = true
-	registered = true
-[submodule "manila.traffic"]
-	path = manila.traffic
-	url = https://github.com/tjpalanca/manila.traffic
-	shallow = true
-	registered = true
-[submodule "dbtools"]
-	path = dbtools
-	url = https://github.com/tjpalanca/dbtools
-	shallow = true
-	registered = true
-[submodule "tjtools"]
-	path = tjtools
-	url = https://github.com/tjpalanca/tjtools
-	shallow = true
-	registered = true
-[submodule "tjdepot"]
-	path = tjdepot
-	url = https://github.com/tjpalanca/tjdepot
-	shallow = true
-	registered = true
-[submodule "phdwh"]
-	path = phdwh
-	url = https://github.com/tjpalanca/phdwh
-	shallow = true
-	registered = true
-[submodule "watch.something"]
-	path = watch.something
-	url = https://github.com/tjpalanca/watch.something
-	shallow = true
-	registered = true
-[submodule "tjhome"]
-	path = tjhome
-	url = https://github.com/tjpalanca/tjhome
-	shallow = true
-	registered = true
-[submodule "productive"]
-	path = productive
-	url = https://github.com/tjpalanca/productive
+[submodule "singer"]
+	path = singer
+	url = https://github.com/tjpalanca/singer
 	shallow = true
 	registered = true
