@@ -13,3 +13,8 @@
 	url = https://github.com/tjpalanca/webtools
 	shallow = true
 	registered = true
+[submodule "loadtest"]
+	path = loadtest
+	url = https://github.com/tmobile/loadtest
+	shallow = true
+	registered = false

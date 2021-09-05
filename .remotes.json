@@ -1,0 +1,8 @@
+[
+  {
+    "package": "loadtest",
+    "url": "https://github.com/tmobile/loadtest",
+    "via": ["webtools"],
+    "from": "webtools"
+  }
+]
