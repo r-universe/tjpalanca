@@ -8,8 +8,8 @@
 	url = https://github.com/tjpalanca/tjart
 	shallow = true
 	registered = true
-[submodule "singer"]
-	path = singer
-	url = https://github.com/tjpalanca/singer
+[submodule "webtools"]
+	path = webtools
+	url = https://github.com/tjpalanca/webtools
 	shallow = true
 	registered = true
