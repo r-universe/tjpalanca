@@ -4,5 +4,8 @@
   },
   {
     "package": "webtools"
+  },
+  {
+    "package": "bulma.R"
   }
 ]
