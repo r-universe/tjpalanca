@@ -18,6 +18,11 @@
 	url = https://github.com/tjpalanca/bulma.R
 	shallow = true
 	registered = true
+[submodule "settings.sync"]
+	path = settings.sync
+	url = https://github.com/tjpalanca/settings.sync
+	shallow = true
+	registered = true
 [submodule "loadtest"]
 	path = loadtest
 	url = https://github.com/tmobile/loadtest
