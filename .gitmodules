@@ -7,13 +7,13 @@
 	path = tjart
 	url = https://github.com/tjpalanca/tjart
 	shallow = true
-	branch = *release
+	branch = v0.1.0
 	registered = true
 [submodule "webtools"]
 	path = webtools
 	url = https://github.com/tjpalanca/webtools
 	shallow = true
-	branch = *release
+	branch = v0.4.2
 	registered = true
 [submodule "bulma.R"]
 	path = bulma.R
