@@ -7,21 +7,25 @@
 	path = tjart
 	url = https://github.com/tjpalanca/tjart
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "webtools"]
 	path = webtools
 	url = https://github.com/tjpalanca/webtools
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "bulma.R"]
 	path = bulma.R
 	url = https://github.com/tjpalanca/bulma.R
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "settings.sync"]
 	path = settings.sync
 	url = https://github.com/tjpalanca/settings.sync
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "loadtest"]
 	path = loadtest
