@@ -25,7 +25,7 @@
 	path = settings.sync
 	url = https://github.com/tjpalanca/settings.sync
 	shallow = true
-	branch = *release
+	branch = v0.1.1
 	registered = true
 [submodule "loadtest"]
 	path = loadtest
