@@ -19,7 +19,7 @@
 	path = bulma.R
 	url = https://github.com/tjpalanca/bulma.R
 	shallow = true
-	branch = *release
+	branch = v0.1.1
 	registered = true
 [submodule "settings.sync"]
 	path = settings.sync
