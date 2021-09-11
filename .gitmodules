@@ -27,6 +27,12 @@
 	shallow = true
 	branch = v0.1.1
 	registered = true
+[submodule "hotwire.R"]
+	path = hotwire.R
+	url = https://github.com/tjpalanca/hotwire.R
+	shallow = true
+	branch = *release
+	registered = true
 [submodule "loadtest"]
 	path = loadtest
 	url = https://github.com/tmobile/loadtest

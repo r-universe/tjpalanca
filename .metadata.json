@@ -10,5 +10,8 @@
   },
   {
     "package": "settings.sync"
+  },
+  {
+    "package": "hotwire.R"
   }
 ]
