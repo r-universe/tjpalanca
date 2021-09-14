@@ -13,7 +13,7 @@
 	path = webtools
 	url = https://github.com/tjpalanca/webtools
 	shallow = true
-	branch = v0.5.0
+	branch = v0.6.0
 	registered = true
 [submodule "bulma.R"]
 	path = bulma.R
