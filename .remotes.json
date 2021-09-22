@@ -2,7 +2,19 @@
   {
     "package": "loadtest",
     "url": "https://github.com/tmobile/loadtest",
+    "via": ["hotwire.R", "webtools"],
+    "from": "hotwire.R"
+  },
+  {
+    "package": "loadtest",
+    "url": "https://github.com/tmobile/loadtest",
     "via": ["webtools"],
     "from": "webtools"
+  },
+  {
+    "package": "webtools",
+    "url": "https://github.com/tjpalanca/webtools",
+    "via": ["hotwire.R"],
+    "from": "hotwire.R"
   }
 ]

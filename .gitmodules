@@ -31,7 +31,7 @@
 	path = hotwire.R
 	url = https://github.com/tjpalanca/hotwire.R
 	shallow = true
-	branch = *release
+	branch = v0.1.0
 	registered = true
 [submodule "loadtest"]
 	path = loadtest
