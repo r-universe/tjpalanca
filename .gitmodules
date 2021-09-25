@@ -33,6 +33,12 @@
 	shallow = true
 	branch = v0.1.0
 	registered = true
+[submodule "dbtools"]
+	path = dbtools
+	url = https://github.com/tjpalanca/dbtools
+	shallow = true
+	branch = *release
+	registered = true
 [submodule "loadtest"]
 	path = loadtest
 	url = https://github.com/tmobile/loadtest
