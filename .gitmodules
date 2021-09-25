@@ -37,7 +37,7 @@
 	path = dbtools
 	url = https://github.com/tjpalanca/dbtools
 	shallow = true
-	branch = *release
+	branch = v0.1.0
 	registered = true
 [submodule "loadtest"]
 	path = loadtest
