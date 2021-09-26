@@ -16,5 +16,8 @@
   },
   {
     "package": "dbtools"
+  },
+  {
+    "package": "tailwind.R"
   }
 ]
