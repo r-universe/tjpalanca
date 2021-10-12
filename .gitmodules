@@ -9,12 +9,6 @@
 	shallow = true
 	branch = v0.1.0
 	registered = true
-[submodule "webtools"]
-	path = webtools
-	url = https://github.com/tjpalanca/webtools
-	shallow = true
-	branch = v0.9.0
-	registered = true
 [submodule "bulma.R"]
 	path = bulma.R
 	url = https://github.com/tjpalanca/bulma.R
@@ -27,23 +21,11 @@
 	shallow = true
 	branch = v0.1.1
 	registered = true
-[submodule "hotwire.R"]
-	path = hotwire.R
-	url = https://github.com/tjpalanca/hotwire.R
-	shallow = true
-	branch = v0.1.1
-	registered = true
 [submodule "dbtools"]
 	path = dbtools
 	url = https://github.com/tjpalanca/dbtools
 	shallow = true
 	branch = v0.2.0
-	registered = true
-[submodule "tailwind.R"]
-	path = tailwind.R
-	url = https://github.com/tjpalanca/tailwind.R
-	shallow = true
-	branch = v0.1.0
 	registered = true
 [submodule "loadtest"]
 	path = loadtest
