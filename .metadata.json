@@ -3,7 +3,8 @@
     "package": "tjart"
   },
   {
-    "package": "webtools"
+    "package": "webtools",
+    "oncran": false
   },
   {
     "package": "bulma.R"
