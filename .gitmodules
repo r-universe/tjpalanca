@@ -15,13 +15,3 @@
 	shallow = true
 	branch = v0.1.1
 	registered = true
-[submodule "loadtest"]
-	path = loadtest
-	url = https://github.com/tmobile/loadtest
-	shallow = true
-	registered = false
-[submodule "webtools"]
-	path = webtools
-	url = https://github.com/tjpalanca/webtools
-	shallow = true
-	registered = false
