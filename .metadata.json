@@ -3,22 +3,6 @@
     "package": "tjart"
   },
   {
-    "package": "webtools",
-    "oncran": false
-  },
-  {
-    "package": "bulma.R"
-  },
-  {
     "package": "settings.sync"
-  },
-  {
-    "package": "hotwire.R"
-  },
-  {
-    "package": "dbtools"
-  },
-  {
-    "package": "tailwind.R"
   }
 ]
