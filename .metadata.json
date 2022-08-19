@@ -1,8 +1,10 @@
 [
   {
-    "package": "tjart"
+    "package": "tjart",
+    "releasetag": true
   },
   {
-    "package": "settings.sync"
+    "package": "settings.sync",
+    "releasetag": true
   }
 ]
