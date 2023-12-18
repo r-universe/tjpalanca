@@ -1,17 +1,12 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/tjpalanca/universe
-	shallow = true
 	branch = HEAD
-[submodule "tjart"]
-	path = tjart
-	url = https://github.com/tjpalanca/tjart
-	shallow = true
-	branch = v0.1.0
-	registered = true
 [submodule "settings.sync"]
 	path = settings.sync
 	url = https://github.com/tjpalanca/settings.sync
-	shallow = true
 	branch = v0.1.1
-	registered = true
+[submodule "tjart"]
+	path = tjart
+	url = https://github.com/tjpalanca/tjart
+	branch = v0.1.0
