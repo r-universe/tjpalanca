@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/tjpalanca/universe
+	url = https://github.com/tjpalanca/tjpalanca.r-universe.dev
 	branch = HEAD
 [submodule "settings.sync"]
 	path = settings.sync
